@@ -1,6 +1,6 @@
 # Network-Interdiction-Data
 
-This respository included the data used in the following papers:
+This repository includes the data used in the following papers:
 1) "Interdicting Restructuring Networks with Applications in Illicit Trafficking" by Daniel Kosmas, Thomas C. Sharkey, John E. Mitchell, Kayse Lee Maass and Lauren Martin
 2) "Multi-Period Max Flow Network Interdiction with Restructuring for Disrupting Domestic Sex Trafficking Networks" by Daniel Kosmas, Thomas C. Sharkey, John E. Mitchell, Kayse Lee Maass and Lauren Martin
 
